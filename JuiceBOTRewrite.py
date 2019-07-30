@@ -1,6 +1,5 @@
 #The Official JuiceBOT Rewrite by Juice-chan
 #Invite link: https://discordapp.com/api/oauth2/authorize?client_id=605404468254867457&permissions=67496000&scope=bot
-#Type taskkill /F /IM python.exe /T to close out the bot code CMD.
 
 import discord
 from discord.ext import commands
