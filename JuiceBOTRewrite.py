@@ -21,7 +21,7 @@ owe_list = ['Doomfist', 'Tracer', 'D.va', 'Orisa', 'Reinhardt', 'Wrecking Ball',
 
 bot = commands.Bot(command_prefix='!')
 
-TOKEN = 'NjA1NDA0NDY4MjU0ODY3NDU3.XT8BYQ.bdtUpF7KpxJF15J0bGYScGcEM6I'
+TOKEN = 'yeet'
 
 client = discord.Client()
 
@@ -131,4 +131,4 @@ async def on_ready():
     print('-----------------')
 
 client.loop.create_task(change_status())
-client.run('NjA1NDA0NDY4MjU0ODY3NDU3.XT8BYQ.bdtUpF7KpxJF15J0bGYScGcEM6I')
+client.run('yeet')
